@@ -1,5 +1,10 @@
 https://user-images.githubusercontent.com/94966003/150647905-29bfcdbf-2752-4076-a3bf-0f72215fe877.jpg
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94966003/150647905-29bfcdbf-2752-4076-a3bf-0f72215fe877.jpg" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/94966003/150647905-29bfcdbf-2752-4076-a3bf-0f72215fe877.jpg" width="350" alt="accessibility text">
+</p>
+
 The Rising Battle between Artificial Intelligence and the Radiologists.
 Hearing Artificial intelligence the first thing that comes into mind is that of a being who is as capable as us, human being, and together with the advantage of not having the worldly problems and biological lacking that human kind possesses. The science fictions that we had read in our earlier life may have some factor of contribution toward this bias. But again, when we face some things new and potentially evolutionary, we tend to overhype it, as it has happened also in this case of Artificial Intelligence, we are still riding the peak of Gartner’s hype cycle and hoping to hit the plateau of productivity in near future.  
   
